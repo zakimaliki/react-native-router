@@ -2,6 +2,9 @@
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
 
+## How to init projrct
+npx create-react-native-app -t with-router
+
 ## 🚀 How to use
 
 ```sh
